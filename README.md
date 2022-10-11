@@ -2,6 +2,20 @@
 
 This repository is for Bogazici University SWE573 Project.
 
+__Goal__ is to ....
+
+__Why should you care?__ To ....
+
+__Approach__
+1. __Minimalistic__ approach of ....
+2. Focus ....
+3. Additional ...
+
+__Get Started__
+1. Understand what this project includes 
+2. [Setup the environment](setup/Setup.md)
+3. Run an end to end
+
 
 <html>
 <body>
@@ -11,3 +25,20 @@ Task | Description
 -- | --
 Create Repo | Creating repo for the project.
 Create Wiki | This repo wiki includes details of project in each page.
+
+
+
+
+
+
+
+The process: `Setup` :arrow_right: `Train` :arrow_right: `Test` :arrow_right: `Package` :arrow_right: `Release`.
+
+
+__References__
+1. ...
+
+__Additional__
+1. ...
+
+
