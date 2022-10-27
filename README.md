@@ -8,9 +8,10 @@ __Why should you care?__ To interest on social media data
 
 
 __Get Started__
-1. Understand what this project includes 
-2. [Setup the environment](setup/Setup.md)
-3. Run an end to end
+1. Understand what this project use-cases (https://github.com/damlaalkan/SWE573/wiki/Use-Case-Scenarios) 
+2. [See the Mocup]([setup/Setup.md](https://github.com/damlaalkan/SWE573/wiki/Mockup))
+3. Setup
+4. Run 
 
 
 <html>
@@ -32,9 +33,9 @@ The process: `Setup` :arrow_right: `Train` :arrow_right: `Test` :arrow_right: `P
 
 
 __References__
-1. ...
+
 
 __Additional__
-1. ...
+
 
 
