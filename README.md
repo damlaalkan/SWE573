@@ -2,14 +2,10 @@
 
 This repository is for Bogazici University SWE573 Project.
 
-__Goal__ is to ....
+__Goal__ is to build an application to archive social media data and share with community
 
-__Why should you care?__ To ....
+__Why should you care?__ To interest on social media data 
 
-__Approach__
-1. __Minimalistic__ approach of ....
-2. Focus ....
-3. Additional ...
 
 __Get Started__
 1. Understand what this project includes 
