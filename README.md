@@ -1,10 +1,10 @@
 # SWE573 Project
 
-This repository is for Bogazici University SWE573 Project.
+This repository is for Bogazici University SWE573 Course Project.
 
 __Goal__ is to build an application to archive social media data and share with community
 
-__Why should you care?__ To interest on social media data 
+__Why should you care?__ To interest on social media data collection and building an application 
 
 
 __Get Started__
@@ -20,19 +20,25 @@ __Get Started__
 
 Task | Description
 -- | --
-Create Repo | Creating repo for the project.
-Create Wiki | This repo wiki includes details of project in each page.
+Create Repo | Creating repo for the project. | 1 Day
+Create Wiki | This repo wiki includes details of project in each page. | 3 Days
+Create Git Version | This repo wiki includes details of project in each page. | 1 Day
+Create Use-Cases | This repo wiki includes details of project in each page. | 2 Days
+Create Mocup | This repo wiki includes details of project in each page. | 2 Days
 
 
 
 
 
 
-
-The process: `Setup` :arrow_right: `Train` :arrow_right: `Test` :arrow_right: `Package` :arrow_right: `Release`.
+The process: `Setup` :arrow_right: `Run` :arrow_right: `Test` :arrow_right: `Release`
 
 
 __References__
+ 
+1. https://moqups.com/
+2. https://www.wikidata.org/wiki/Wikidata:Main_Page
+3. https://git-scm.com/
 
 
 __Additional__
