@@ -1,8 +1,8 @@
 # SWE573 Project
 
-This repository is for Bogazici University SWE573 Course Project.
+This repository is for Bogazici University SWE573 Course Project. 
 
-__Goal__ is to build an application to archive social media data and share with community
+__Goal__ is to build an application to archive social media data and share with community. This project named KeeP application aims to enable user to archive copied social media links and categorize them for advanced search.
 
 __Why should you care?__ To interest on social media data collection and building an application 
 
