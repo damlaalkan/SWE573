@@ -10,8 +10,8 @@ __Why should you care?__ To interest on social media data collection and buildin
 __Get Started__
 1. Understand what this project use-cases (https://github.com/damlaalkan/SWE573/wiki/Use-Case-Scenarios) 
 2. [See the Mocup]([setup/Setup.md](https://github.com/damlaalkan/SWE573/wiki/Mockup))
-3. Setup
-4. Run 
+3. Setup Environment
+4. Run Locally
 
 
 <html>
@@ -25,8 +25,7 @@ Create Wiki | This repo wiki includes details of project in each page. | 3 Days
 Create Git Version | This repo wiki includes details of project in each page. | 1 Day
 Create Use-Cases | This repo wiki includes details of project in each page. | 2 Days
 Create Mocup | This repo wiki includes details of project in each page. | 2 Days
-
-
+Setup Environment | This repo wiki includes details of project in each page. | 3 Days
 
 
 
@@ -39,9 +38,9 @@ __References__
 1. https://moqups.com/
 2. https://www.wikidata.org/wiki/Wikidata:Main_Page
 3. https://git-scm.com/
+4. https://learndjango.com/tutorials/django-login-and-logout-tutorial
 
 
-__Additional__
 
 
 
