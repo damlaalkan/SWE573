@@ -6,6 +6,8 @@ __Goal__ is to build an application to archive social media data and share with 
 
 __Why should you care?__ To interest on social media data collection and building an application 
 
+__High Level Technical Architecture__ Django is a popular python-based framework, and it is used for web development. It is a high-level web framework that allows building secure and maintainable websites quickly. This project uses django framework in backend and html is used for frontend design.
+
 
 __Get Started__
 1. Understand what this project use-cases (https://github.com/damlaalkan/SWE573/wiki/Use-Case-Scenarios) 
