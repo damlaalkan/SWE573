@@ -20,6 +20,8 @@ __Get Started__
 2. [See the Mocup]([setup/Setup.md](https://github.com/damlaalkan/SWE573/wiki/Mockup))
 3. Setup Environment
 4. Run Locally
+5. Dockerize
+6. Deploy to Cloud
 
 
 
