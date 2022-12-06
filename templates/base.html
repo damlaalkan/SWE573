@@ -1,0 +1,40 @@
+<!-- templates/base.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Include the Bulma CSS framework for styling -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <title>KeeP</title>
+</head>
+<body>
+    
+    <section class="hero is-small is-warning mb-4">
+        <div class="hero-body">
+            <h1 class="title is-1">KeeP</h1>
+
+            <h1 class=" "></h1>
+            <p class="subtitle is-4">
+                KeeP your interests!
+            </p>
+            <img src="https://raw.githubusercontent.com/damlaalkan/SWE573/main/logo2.PNG" alt="alternatetext" style="float:left;width:100px;height:100px;">
+        </div>
+    </section>
+
+
+
+    <div class="container">
+        <div class="columns">
+
+            {% block content %}
+
+            {% endblock content %}
+
+        </div>
+    </div>
+    
+</body>
+</html>
