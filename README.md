@@ -8,6 +8,10 @@ __Why should you care?__ To interest on social media data collection and buildin
 
 __High Level Technical Architecture__ Django is a popular python-based framework, and it is used for web development. It is a high-level web framework that allows building secure and maintainable websites quickly. This project uses django framework in backend and html is used for frontend design.
 
+# You may visit the page via http://54.166.23.109/ 
+
+The DNS will be damlakeep soon..
+
 ![53593afd-1702-42f0-9c92-6362d95534b2](https://user-images.githubusercontent.com/28626390/205897363-42463c0f-30e2-480b-8e34-baee3942b82b.jpg)
 
 
