@@ -34,8 +34,10 @@ class Post(models.Model):
         )
         body = models.CharField(max_length=200)
         created_at = models.DateTimeField(auto_now_add=True)   
-        link = models.URLField(max_length=500,default="")
-        category = models.CharField(max_length=20,default="")
+        link = models.URLField(max_length=500,default="a")
+
+        
+
 
         def __str__(self):
             return (
@@ -43,7 +45,7 @@ class Post(models.Model):
                 f"({self.created_at:%Y-%m-%d %H:%M}): "
                 f"{self.body[:30]}..."
                 f"{self.link[:20]}..."
-                f"{self.category[:20]}..."
+
             )
 
 

@@ -1,17 +1,20 @@
-# Dockerfile
+#Dockerfile
 
-# The first instruction is what image we want to base our container on
-# We Use an official Python runtime as a parent image
-FROM python:3.10
+# Pull base image
+FROM python:3.9.16-slim-bullseye
 
-RUN apt-get update \
-    && apt-get install -y --no-install-recommends \
-    && rm -rf /var/lib/apt/lists/*
+# Set environment variables
+ENV PIP_DISABLE_PIP_VERSION_CHECK 1
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
 
-WORKDIR /usr/src/app
-COPY requirements.txt ./
+# Set work directory
+WORKDIR /code
+
+# Install dependencies
+RUN apt-get update && apt-get upgrade -y && apt-get install gcc -y
+COPY ./requirements.txt .
 RUN pip install -r requirements.txt
-COPY . .
 
-EXPOSE 8000
-CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+# Copy project
+COPY . .
